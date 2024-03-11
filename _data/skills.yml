@@ -1,12 +1,18 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Technical Skills
+- skill: Technical Skills
+  description:  <ul class="resume-item-list">
+                <li><b>Programming Languages:</b> PHP, Go Lang, JavaScript, HTML, CSS. </li>
+                <li><b>Frameworks:</b> Laravel, Gin, Bootstrap. </li>
+                <li><b>Content Management System</b>:Wordpress, Joomla.</li>
+                <li><b>API:</b> REST & SOAP API Design & Implementation. </li>
+                <li><b>Database:</b> Database Design and Management (SQL). </li>
+                <li>Software Requirements Development.</li>
+                <li>Software Documentation.</li>
+                <li>Software Testing.</li>
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Soft Skills
+- skill: Soft Skills
+  description: Problem-solving, Teamwork, Attention to detail, Adaptability, Communication, Collaboration
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+
