@@ -45,15 +45,15 @@ resume_section_skills:          true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
-resume_social_links:
-resume_github_url:            "https://github.com/k!ama"
-# resume_twitter_url:           "http://twitter.com/"
-# resume_facebook_url:          "insert Facebook URL here"
-resume_linkedin_url:          "https://www.linkedin.com/in/peter-kiama"
-# resume_instagram_url:         "insert your Instagram URL here"
-# resume_website_url:           "http://#.com"
-# resume_medium_url:            "https://medium.com/"
-resume_pdf_url:               "/document/PETER_KIAMA_WANGUI_RESUME.pdf"
+resume_social_links:           
+  resume_github_url:            "https://github.com/k!ama"
+  # resume_twitter_url:           "http://twitter.com/"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/peter-kiama"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  # resume_website_url:           "http://#.com"
+  # resume_medium_url:            "https://medium.com/"
+  resume_pdf_url:               "/document/PETER_KIAMA_WANGUI_RESUME.pdf"
 resume_print_social_links:      true
 
 # Design settings
